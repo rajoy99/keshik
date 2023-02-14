@@ -22,8 +22,16 @@ totalX,totalY=Diffusion_Oversampler(X_train,y_train,n_iteration=40,categorical_c
 ```
 
 Method : Diffusion_Oversampler 
+
+
 Input:  
-*Dataframe of Feature Variables 
-*Series of binary labels 
+* X_train : Dataframe of Feature Variables 
+* y_train : Series of binary labels 
+* n_iteration: number of epochs to train the DDPM model 
+* categorical_columns : list of categorical columns 
+* cat_handle_mode : ['prediction','roundoff'] (default : 'prediction')
+* oversampling_mode : ['byMatrix','byRows','byColumns'] (default : 'byMatrix')
+
+
     
 
