@@ -32,6 +32,8 @@ Input:
 * cat_handle_mode : ['prediction','roundoff'] (default : 'prediction')
 * oversampling_mode : ['byMatrix','byRows','byColumns'] (default : 'byMatrix')
 
-
+Returns : 
+* A dataframe with original features 
+* a numpy array (the binary labels) 
     
 
