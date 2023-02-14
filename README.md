@@ -21,3 +21,9 @@ totalX,totalY=Diffusion_Oversampler(X_train,y_train,n_iteration=40,categorical_c
 
 ```
 
+Method : Diffusion_Oversampler 
+Input:  
+*Dataframe of Feature Variables 
+*Series of binary labels 
+    
+
