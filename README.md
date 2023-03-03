@@ -1,4 +1,7 @@
 # keshik
+
+
+<img src="https://github.com/rajoy99/keshik/blob/main/KeshikLogo.png"/> 
 Oversample class imbalanced tabular data by Denoising Diffusion Probabilistic Model (DDPM)
 
 **Usage Guide**
