@@ -39,4 +39,8 @@ Returns :
 * A dataframe with original features 
 * a numpy array (the binary labels) 
     
+**Applications:**
 
+* Credit Card Fraud Detection 
+* Network Intrusion Detection 
+* And Other similar **binary** class imbalanced tabular data problems 
